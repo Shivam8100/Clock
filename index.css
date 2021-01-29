@@ -5,7 +5,7 @@ img{
 }
 #clockcontainer{
     position: relative;
-    background: url(clock.png) no-repeat;
+    background: url(/clock.png) no-repeat;
     /* border: solid black; */
     border-radius: 100%;
     margin-bottom: 0px;
